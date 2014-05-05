@@ -1,7 +1,7 @@
 <?php
 
 $EM_CONF[$_EXTKEY] = array(
-	'title'                         => 'Barcode Genearor',
+	'title'                         => 'Barcode Generator',
 	'description'                   => 'generates barcodes',
 	'category'                      => 'plugin',
 	'author'                        => 'AOE',
